@@ -1,0 +1,22 @@
+{
+  "name": "testdemo",
+  "version": "1.0.0",
+  "description": "TestCafe POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmrElnakib/testCafePoc.git"
+  },
+  "author": "Amr Elnakib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmrElnakib/testCafePoc/issues"
+  },
+  "homepage": "https://github.com/AmrElnakib/testCafePoc#readme",
+  "dependencies": {
+    "testcafe": "^1.9.4"
+  }
+}
